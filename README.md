@@ -1,2 +1,1 @@
-# kaggle
-kaggle examples
+practise examples from kaggle minicourse
